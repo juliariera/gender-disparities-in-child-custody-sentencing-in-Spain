@@ -1,0 +1,99 @@
+Short name;Name;Group
+PLAIN_ML;plaintiffMale;Plainfiff's gender
+DEFEN_ML;defendantMale;Defendants's gender
+JUDGE_ML;Reporting judge male;Judge gender
+RQ_JOINT;request_JointCustody;Plainfiff's requests
+RQ_FH_AT;request_FamilyHome_Attribution;Plainfiff's requests
+RQ_FH_SP;request_FamilyHome_Suppression;Plainfiff's requests
+RQ_MP_AT;request_MaintenancePayments_Attribution;Plainfiff's requests
+RQ_MP_SP;request_MaintenancePayments_Suppression;Plainfiff's requests
+CD_JOINT;decision_JointCustody;Court decisions
+CD_JO_CF;decision_JointCustody_Confirm;Court decisions
+WIN_SL;plaintiff_Winner_SoleCustody;Court decisions
+WINWIN;plaintiff_Winner;Court decisions
+CD_FH_AT;decision_FamilyHome_Attribution;Court decisions
+CD_FH_SP;decision_FamilyHome_Suppression;Court decisions
+CD_MP_AT;decision_MaintenancePayments_Attribution;Court decisions
+CD_MP_SP;decision_MaintenancePayments_Suppression;Court decisions
+LP_BI_b;Best interests of the child;Legal principles
+LP_BI;Best interests of the child;Legal principles
+LP_BI_SL_b;Best interests of the child: sole custody.;Legal principles detail
+LP_BI_SL;Best interests of the child: sole custody.;Legal principles detail
+LP_BI_JN_b;Best interests of the child: joint custody.;Legal principles detail
+LP_BI_JN;Best interests of the child: joint custody.;Legal principles detail
+LP_PE_b;Parents equality;Legal principles
+LP_PE;Parents equality;Legal principles
+LP_PE_SL_b;Parents equality: sole custody;Legal principles detail
+LP_PE_SL;Parents equality: sole custody;Legal principles detail
+LP_PE_JN_b;Parents equality: joint custody;Legal principles detail
+LP_PE_JN;Parents equality: joint custody;Legal principles detail
+LP_RA_b;Proportionality in the responsibilities;Legal principles
+LP_RA;Proportionality in the responsibilities;Legal principles
+LP_RA_SL_b;Proportionality in the responsibilities: sole custody;Legal principles detail
+LP_RA_SL;Proportionality in the responsibilities: sole custody;Legal principles detail
+LP_RA_JN_b;Proportionality in the  responsibilities : joint custody;Legal principles detail
+LP_RA_JN;Proportionality in the  responsibilities : joint custody;Legal principles detail
+LP_RJ_b;Res judicata;Legal principles
+LP_RJ;Res judicata;Legal principles
+LP_RJ_SL_b;Res judicata: sole custody;Legal principles detail
+LP_RJ_SL;Res judicata: sole custody;Legal principles detail
+LP_RJ_JN_b;Res judicata: joint custody;Legal principles detail
+LP_RJ_JN;Res judicata: joint custody;Legal principles detail
+FT_RP_b;Psycho-social report;Facts
+FT_RP;Psycho-social report;Facts
+FT_RP_SL_b;Psycho-social report: sole custody;Facts detail
+FT_RP_SL;Psycho-social report: sole custody;Facts detail
+FT_RP_JN_b;Psycho-social report: joint custody;Facts detail
+FT_RP_JN;Psycho-social report: joint custody;Facts detail
+FT_CW_b;Opinion of children;Facts
+FT_CW;Opinion of children;Facts
+FT_CW_SL_b;Opinion of children: sole custody;Facts detail
+FT_CW_SL;Opinion of children: sole custody;Facts detail
+FT_CW_JN_b;Opinion of children: joint custody;Facts detail
+FT_CW_JN;Opinion of children: joint custody;Facts detail
+FT_CC_b;Circumstances of children;Facts
+FT_CC;Circumstances of children;Facts
+FT_CC_SL_b;Circumstances of children: sole custody;Facts detail
+FT_CC_SL;Circumstances of children: sole custody;Facts detail
+FT_CC_JN_b;Circumstances of children: joint custody;Facts detail
+FT_CC_JN;Circumstances of children: joint custody;Facts detail
+FT_CR_b;Roots of children;Facts
+FT_CR;Roots of children;Facts
+FT_CR_SL_b;Roots of children: sole custody;Facts detail
+FT_CR_SL;Roots of children: sole custody;Facts detail
+FT_CR_JN_b;Roots of children: joint custody;Facts detail
+FT_CR_JN;Roots of children: joint custody;Facts detail
+FT_RA_b;Parents' relationship and attitude ;Facts
+FT_RA;Parents' relationship and attitude;Facts
+FT_RA_SL_b;Parents' relationship and attitude: sole custody ;Facts detail
+FT_RA_SL;Parents' relationship and attitude: sole custody ;Facts detail
+FT_RA_JN_b;Parents' relationship and attitude: joint custody ;Facts detail
+FT_RA_JN;Parents' relationship and attitude: joint custody ;Facts detail
+FT_RD_b;Parents' readiness;Facts
+FT_RD;Parents' readiness;Facts
+FT_RD_SL_b;Parents' readiness: sole custody;Facts detail
+FT_RD_SL;Parents' readiness: sole custody;Facts detail
+FT_RD_JN_b;Parents' readiness: joint custody;Facts detail
+FT_RD_JN;Parents' readiness: joint custody;Facts detail
+FT_PD_b;Parents' previous dedication;Facts
+FT_PD;Parents' previous dedication;Facts
+FT_PD_SL_b;Parents' previous dedication: sole custody;Facts detail
+FT_PD_SL;Parents' previous dedication: sole custody;Facts detail
+FT_PD_JN_b;Parents' previous dedication: joint custody;Facts detail
+FT_PD_JN;Parents' previous dedication: joint custody;Facts detail
+FT_AG_b;Parents' agreements;Facts
+FT_AG;Parents' agreements;Facts
+FT_AG_SL_b;Parents' agreements: sole custody;Facts detail
+FT_AG_SL;Parents' agreements: sole custody;Facts detail
+FT_AG_JN_b;Parents' agreements: joint custody;Facts detail
+FT_AG_JN;Parents' agreements: joint custody;Facts detail
+FT_SL_IN_b;Index of all facts in favor of sole custody;Facts index
+FT_JN_IN_b;Index of all facts in favor of individual custody;Facts index
+FT_SL_IN;Index of all facts in favor of sole custody;Facts index
+FT_JN_IN;Index of all facts in favor of individual custody;Facts index
+LN_JNPREF_b;Join custody preference;Legal norms
+LN_JNPREF;Join custody preference;Legal norms
+ID;Sentence identifier;Judicial resolution
+URL;URL;Judicial resolution
+DATE;Date;Judicial resolution
+YEAR;Year;Judicial resolution
